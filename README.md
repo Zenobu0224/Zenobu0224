@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charles </h1>
 <p align="center">A passionate Computer Science student from Philippines</p>
 
-![Cool GIF](https://camo.githubusercontent.com/758a4e4761be4a60ff1280c53b3a7fe6fba181861515331049d626e852da2c57/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f55564730424e38544f4d4b6b504f4a5336652f67697068792e676966)
 
 <!--
 **Zenobu0224/Zenobu0224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
