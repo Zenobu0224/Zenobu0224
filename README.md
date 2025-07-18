@@ -2,7 +2,7 @@
 <p align="center">A passionate Computer Science student from Philippines</p>
 
 <p align="center">
-  <img src="Git_Read/paren.gif" alt="Lets Code">
+  <img src="Git_Read/paren.gif" alt="Lets Code" width=100>
 </p>
 
 
