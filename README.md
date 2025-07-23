@@ -5,6 +5,9 @@
   <img src="Git_Read/paren.gif" alt="Lets Code" width=150>
 </p>
 
+<p align="center">
+  <img src="Git_Read/neko.gif" alt="Pussy Coding", width=150>
+</p>
 
 <!--
 **Zenobu0224/Zenobu0224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
