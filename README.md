@@ -6,8 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/077067bb63f971e4a0c0c002ceff8519996286b58b17f9e4a0ed7d645002520d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f687155324b6b6a573562453276325a3751322f67697068792e676966" alt="Pussy Coding", width=100>
+  <img src="https://camo.githubusercontent.com/077067bb63f971e4a0c0c002ceff8519996286b58b17f9e4a0ed7d645002520d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f687155324b6b6a573562453276325a3751322f67697068792e676966" alt="Pussy Coding", width=80>
 </p>
+
+<h2>Languages and Tools</h2>
 
 <!--
 **Zenobu0224/Zenobu0224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
