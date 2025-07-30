@@ -10,6 +10,10 @@
 </p>
 
 <h2>Languages and Tools</h2>
+---
+<p>
+  <img src="https://camo.githubusercontent.com/000ff41732a1268ee2177a8a7ac60cec7cf8cce85c426b80ac8a334a94c5f8f1/68747470733a2f2f72656e6465722e676974616e696d616c732e6f72672f6c696e65732f69747376696e6179616b3f7065742d69643d363630303432393839373432323239343430" alt="Good Pussy">
+</p>
 
 <!--
 **Zenobu0224/Zenobu0224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
