@@ -13,7 +13,7 @@
 
 <p>
   <img src="Git_Read/java.png">
-  <img src"Git_Read/python.png">
+  <img src="Git_Read/python.png">
 </p>
 
 <p align="center">
