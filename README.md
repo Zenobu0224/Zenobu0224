@@ -14,6 +14,7 @@
   <img src="Git_Read/java.png">
   <img src="Git_Read/python.png">
   <img src="Git_Read/numpy.png">
+  <img src="Git_Read/pandas.png">
   <img src="Git_Read/ctk.png">
 </p>
 
