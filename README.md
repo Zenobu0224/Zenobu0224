@@ -10,6 +10,10 @@
   <img src="Git_Read/java.png">
   <img src="Git_Read/python.png">
   <img src="Git_Read/csharp.png">
+  <img src="Git_Read/html.png">
+  <img src="Git_Read/css.png">
+  <img src="Git_Read/js.png">
+
 </p>
 
 
